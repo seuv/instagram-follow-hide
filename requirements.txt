@@ -1,0 +1,2 @@
+# ig-follow-privacy has no third-party runtime dependencies (standard library only).
+# Install the package itself with:  pip install .
